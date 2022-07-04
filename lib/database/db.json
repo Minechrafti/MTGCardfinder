@@ -1,0 +1,99 @@
+{
+  "technologies": [
+    {
+      "id": 1,
+      "name": "reactjs"
+    },
+    {
+      "id": 2,
+      "name": "nextjs"
+    }
+  ],
+  "users": [
+    {
+      "email": "arst@arst.ch",
+      "password": "$2a$10$296AcOjti4ScCjGgQVPoZOh86IOnvmOwW9RwU68R44cXyo0U2.JvW",
+      "id": 1
+    }
+  ],
+  "decks": [
+    {
+      "userId": 2,
+      "name": "Vampri",
+      "cards": [
+        "Edgar, Charmed Groom",
+        "Edgar, Charmed Groom",
+        "Edgar, Charmed Groom",
+        "Edgar, Charmed Groom",
+        "Edgar, Charmed Groom",
+        "Edgar, Charmed Groom",
+        "Edgar, Charmed Groom // Edgar Markov's Coffin",
+        "Edgar, Charmed Groom // Edgar Markov's Coffin",
+        "Edgar, Charmed Groom // Edgar Markov's Coffin",
+        "Edgar, Charmed Groom // Edgar Markov's Coffin",
+        "Edgar, Charmed Groom // Edgar Markov's Coffin",
+        "Edgar, Charmed Groom // Edgar Markov's Coffin",
+        "Edgar, Charmed Groom // Edgar Markov's Coffin"
+      ],
+      "id": 1
+    },
+    {
+      "userId": 2,
+      "name": "Samurai",
+      "cards": [
+        "Asari Captain",
+        "Peerless Samurai",
+        "Heiko Yamazaki, the General",
+        "Asari Captain",
+        "Risona, Asari Commander",
+        "Risona, Asari Commander",
+        "Heiko Yamazaki, the General",
+        "Heiko Yamazaki, the General",
+        "Heiko Yamazaki, the General",
+        "Heiko Yamazaki, the General",
+        "Peerless Samurai",
+        "Peerless Samurai",
+        "Peerless Samurai",
+        "Selfless Samurai",
+        "Selfless Samurai",
+        "Selfless Samurai",
+        "Selfless Samurai"
+      ],
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "name": "Wishlist",
+      "cards": [
+        "Edgar, Charmed Groom",
+        "Edgar, Charmed Groom",
+        "Bureaucracy",
+        "A-Acererak the Archlich",
+        "A-Acererak the Archlich",
+        "Aarakocra Sneak"
+      ],
+      "id": 3
+    },
+    {
+      "userId": 1,
+      "name": "heal",
+      "cards": [
+        "Bureaucracy",
+        "+2 Mace",
+        "+2 Mace",
+        "+2 Mace",
+        "+2 Mace",
+        "+2 Mace",
+        "+2 Mace",
+        "+2 Mace",
+        "A-Acererak the Archlich",
+        "A-Acererak the Archlich",
+        "A-Acererak the Archlich",
+        "Aarakocra Sneak",
+        "Aarakocra Sneak",
+        "Aarakocra Sneak"
+      ],
+      "id": 4
+    }
+  ]
+}

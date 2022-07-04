@@ -1,0 +1,35 @@
+.input{
+    width: 80%;
+    margin-left: 2rem;
+}
+
+.inputContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.labelContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.labelInputContainer{
+    display: inline-flex;
+    margin-top: 2rem;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 100%;
+    flex: 1;
+}

@@ -1,0 +1,22 @@
+.search{
+    margin-left: 8vw;
+    margin-right: 8vw;
+    margin-top: 35vh;
+    width: 82%;
+    background-color: transparent;
+    font-size: 24px;
+    text-align: center;
+}
+
+.buttonContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2vh;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+

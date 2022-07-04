@@ -1,0 +1,57 @@
+{
+    //     "env": {
+    //         "browser": true,
+    //         "es2021": true,
+    //         "jest": true
+    //     },
+    //     "extends": [
+    //         "eslint:recommended",
+    //         "next",
+    //         "plugin:react/recommended"
+    //     ],
+    //     "parserOptions": {
+    //         "ecmaFeatures": {
+    //             "jsx": true,
+    //             "modules": true
+    //         },
+    //         "ecmaVersion": 6,
+    //         "sourceType": "module"
+    //     },
+    //     "plugins": [
+    //         "react"
+    //     ],
+    //     "rules": {
+    //         "react/prop-types": 0,
+    //         "indent": [
+    //             "error",
+    //             4
+    //         ],
+    //         "linebreak-style": [
+    //             "error",
+    //             "unix"
+    //         ],
+    //         "quotes": [
+    //             "error",
+    //             "double"
+    //         ],
+    //         "semi": [
+    //             "error",
+    //             "always"
+    //         ],
+    //         "max-len": [
+    //             "warn",
+    //             {
+    //                 "code": 80,
+    //                 "tabWidth": 4,
+    //                 "ignoreComments": true
+    //             }
+    //         ]
+    //     }
+    {
+        "extends": "next",
+        "rules": {
+            "react/no-unescaped-entities": "off",
+            "@next/next/no-page-custom-font": "off"
+        }
+    }
+}

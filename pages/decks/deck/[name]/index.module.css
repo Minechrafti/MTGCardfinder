@@ -1,0 +1,64 @@
+.card {
+    display: flex;
+    height: 100%;
+    /*   margin-left: -50px; */
+    transition: 0.4s ease-out;
+    position: relative;
+}
+
+.firstCardfromArtifact {
+    margin: 0 0 0 15vw;
+}
+.firstCardfromType {
+    margin: 30vh 0 0 15vw;
+}
+
+.card:not(:first-child) {
+    margin-top: -30vh;
+}
+
+.card:hover {
+    transform: translateY(-20vh);
+    transition: 0.4s ease-out;
+}
+
+.card:hover~.card {
+    position: relative;
+    top: 50vh;
+    transition: 0.4s ease-out;
+}
+
+.img {
+    height: 50vh;
+    width: auto;
+    position: absolute;
+}
+
+.buttonContainer {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    margin-top: 5vh;
+    margin-left: -8vw;
+}
+
+.miniContainer {
+    margin-left: 10vw;
+}
+
+.button{
+    background: black;
+    color:#AAA;
+    opacity: 60%;
+    height: 5vh;
+    width: 13vw;
+    border-radius: 15px;
+}
+
+.infos{
+    background-color: #000;
+    opacity: 55%;
+    width: 100vw;
+    height: 40vh;
+    color: #fff;
+}
