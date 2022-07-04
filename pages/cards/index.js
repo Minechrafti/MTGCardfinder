@@ -2,7 +2,7 @@
 /* eslint-disable react-hooks/rules-of-hooks */
 import { useRouter } from "next/router";
 import { useEffect, useState } from "react";
-import styles from "./index.module.css";
+import styles from "./../../styles/CardsIndex.module.css";
 import Link from "next/link";
 import {getCardsByParams } from "../../lib/api";
 
